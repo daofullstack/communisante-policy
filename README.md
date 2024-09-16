@@ -1,4 +1,4 @@
-
+[
 <h2 style="text-align: center;"><b>TERMS AND CONDITIONS</b></h2>
 <p>Last updated: 2022-04-16</p>
 <p>1. <b>Introduction</b></p>
@@ -89,3 +89,4 @@
 <p>24. <b>Contact Us</b></p>
 <p>Please send your feedback, comments, requests for technical support by email: <b>lassina.dao@sm-ic.com</b>.</p>
 <p style="margin-top: 5em; font-size: 0.7em;">These <a href="https://policymaker.io/terms-and-conditions/">Terms of Service</a> were created for <b>https://smartinnovationscenter.com/</b> by <a href="https://policymaker.io">PolicyMaker.io</a> on 2022-04-16.</p>
+](https://github.com/daofullstack/cicv-policy.git)
